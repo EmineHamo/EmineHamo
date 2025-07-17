@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning to become a Fullstack Developer
+I am currently learning to become a Data Analyst
 
 
 ## 🌐 Socials:
