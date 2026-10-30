@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Business Administration student at Yıldız Technical University  <br>📊 Aspiring Data Analyst with a passion for turning messy data into actionable insights  <br>🛠️ Skills: Excel | SQL | Power BI | Data Cleaning<br>📚 Currently learning: Data Analysis & Business Intelligence using DataCamp, Coursera, and LinkedIn Learning  
+🎓 Business Administration graduate from Yıldız Technical University  <br>📊 Aspiring Data Analyst with a passion for turning messy data into actionable insights  <br>🛠️ Skills: Excel | SQL | Power BI | Data Cleaning<br>📚 Currently learning: Data Analysis & Business Intelligence using DataCamp, Coursera, and LinkedIn Learning  
 
 
 ## 🌐 Socials:
